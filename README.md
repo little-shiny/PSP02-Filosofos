@@ -1,5 +1,8 @@
 # Tarea PSP02 - Problema de los filósofos comensales en Java
 ## Introducción
+
+[Enlace repositorio:](https://github.com/little-shiny/PSP02-Filosofos)
+
 El problema de los filósofos comensales es un problema clásico de la programación concurrente que se 
 utiliza para ilustrar los problemas de sincronización y acceso a recursos compartidos entre múltiples 
 procesos o hilos.
